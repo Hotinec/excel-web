@@ -1,0 +1,24 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hotinec/excel-web.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Hotinec Artiom <hotinec2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hotinec/excel-web/issues"
+  },
+  "homepage": "https://github.com/Hotinec/excel-web#readme"
+}
